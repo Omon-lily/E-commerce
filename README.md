@@ -3,6 +3,7 @@ This project explores key trends, patterns, and insights within eCommerce data t
 
  # eCommerce Performance Dashboard – Power BI Analysis
 This interactive Power BI dashboard offers a comprehensive overview of key metrics driving business performance in an eCommerce environment. The visualizations present insights into sales trends, product performance, discount strategies, and customer behavior, enabling data-driven decision-making.
+
 <img width="872" alt="dashboard" src="https://github.com/user-attachments/assets/ff2d0730-1195-4d8c-bf6b-48a208ab7ea2" />
 
 # Overviwe
