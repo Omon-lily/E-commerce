@@ -40,7 +40,7 @@ Clothing received the least discounting, suggesting strong demand or premium pri
 
 This indicates where pricing strategies are being used most aggressively, potentially to boost low-performing categories or seasonal stock.
 
-### 💳 ### Payment Preferences
+### 💳  Payment Preferences
 Most Popular Payment Methods
 Top Choices:
 
@@ -50,7 +50,7 @@ Net Banking and Cash on Delivery trail slightly behind.
 
 These insights can guide payment gateway partnerships and help optimize the checkout experience.
 
-### 📈 ### Monthly Sales Trends
+### 📈 Monthly Sales Trends
 Sales Fluctuation (Jan–Sep 2024):
 
 Strong sales were observed in Feb, Apr, and Sep 2024.
@@ -59,7 +59,7 @@ A noticeable drop is seen in October, potentially due to incomplete data or seas
 
 Trend analysis like this helps in understanding peak seasons, planning marketing campaigns, and managing supply chains.
 
-### 🔍 ### Insights & Business Implications
+### 🔍 Insights & Business Implications
 Focus on High-Demand Categories:
 Prioritize inventory and promotions for Clothing and Books, while exploring strategies to boost categories like Electronics and Beauty.
 
